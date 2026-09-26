@@ -17,18 +17,3 @@ clinic and booking systems, CRMs and messaging tools. Everything we ship is bili
 
 We also deliver **custom client work**: clinic websites connected to MediCare booking, operations
 CRMs for tourism companies, and internal team-management tools.
-
----
-
-## How we build
-
-- **Laravel 11 / PHP 8.2+** back-ends, with **Blade**, **Alpine.js** or **React** front-ends
-- **Tailwind CSS** and **Bootstrap 5**, with full **RTL** support
-- **MySQL**, **Redis** and **MongoDB** where each fits, plus queue-first integrations
-- Role-based access with **Spatie Laravel-Permission**
-- Integrations: Bosta, Paymob, Fawry, PayTabs, WhatsApp, OpenAI and Gemini
-- Deployed on shared hosting or a VPS, with cron-driven workers where daemons aren't available
-
----
-
-<sub>Our repositories are private. Get in touch to talk about a project.</sub>
